@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h2 align="center">Hi 👋, I'm Mozart</h2>
-<h3 align="center">A passionate and inspired programmer. Who loves to build Websites and programs.</h3>
+<h3 align="center">A newbie and passionate and inspired programmer. Who loves to build Websites and programs.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mozart0412&label=Profile%20views&color=0e75b6&style=flat" alt="Mozart" /> </p>
 
